@@ -5,3 +5,4 @@ I created this day scheduler to help keep myself on track with daily activities.
 
 ### 
 https://danielkkostich.github.io/Day-Scheduler/
+![Screenshot 2023-04-02 120832](https://user-images.githubusercontent.com/117228151/229368439-b329feee-d8c9-4290-8808-83b92c5ea457.png)
